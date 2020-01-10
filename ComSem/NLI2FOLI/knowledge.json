@@ -2,5 +2,5 @@
 "953": ["all x.(toddler_n01(x) -> child_n01(x) & some s. (Attribute(x,s) & young_a01(s)))"],
 "1909": ["all x.(polish_v01(x) -> clean_v01(x))"],
 "7459": ["all x.(ride_v01(x) -> surf_v01(x) & all x1.(surfer_n01(x1) -> rider_n01(x1)))"],
-"311" : ["all x.(ocean_n01(x) -> water_n01(x) & all x1.(crowd_n01(x1) -> group_n01(x1)))"]
+"473" : ["all x.(boy_n01(x) -> child_n01(x))"]
 }
