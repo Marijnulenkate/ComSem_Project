@@ -4,5 +4,6 @@
 "7459": ["all x.(ride_v01(x) -> surf_v01(x) & all x1.(surfer_n01(x1) -> rider_n01(x1)))"],
 "473" : ["all x.(boy_n01(x) -> child_n01(x))"],
 "737" : ["all x.(marriage_n01(x) -> wedding_n01(x))"],
-"927" : ["all s.(huge_a01(s) -> not small_a01(s))"]
+"927" : ["all s.(huge_a01(s) -> not small_a01(s))"],
+"9653": ["all x.(beach_n01(x) -> sand_n01(x))"]
 }
